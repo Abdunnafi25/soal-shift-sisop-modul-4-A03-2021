@@ -221,7 +221,7 @@ Log system yang akan terbentuk bernama “SinSeiFS.log” pada direktori home pe
 ### jawab
 Untuk soal ini, kita menentukan nama directory.
 ```
-static char *logpath = "/home/wisnupramoedya/SinSeiFS.log";
+static char *logpath = "/home/abdunnafi25/SinSeiFS.log";
 ```
 Kita membuat log_file berikut.
 ```
